@@ -45,6 +45,7 @@ def load_data(city, month, day):
     """
 
     data_csv = CITY_DATA[city]
+    df = pd.read_csv(data_csv)
 
     return df
 
