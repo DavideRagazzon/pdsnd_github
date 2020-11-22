@@ -44,6 +44,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
+    data_csv = CITY_DATA[city]
 
     return df
 
