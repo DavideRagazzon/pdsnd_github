@@ -15,5 +15,10 @@ In this projects, the following files were used:
 - `washington.csv`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The credit for most of this work goes to the original repo from Udacity:
+https://github.com/udacity/pdsnd_github
+
+Some credit goes also to Davide who made nice changes
+https://github.com/DavideRagazzon/pdsnd_github
+
 
