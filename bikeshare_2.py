@@ -24,7 +24,10 @@ def get_filters():
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
-
+    # Dummy values to be used in the initial stages of development
+    city = 'New York'
+    month = '11'
+    day = '22'
     print('-'*40)
     return city, month, day
 
