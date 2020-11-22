@@ -1,3 +1,6 @@
 
-# Ignore .idea file created automatically by PyCharm
+# Ignoring .idea file created automatically by PyCharm
 .idea
+
+# Ignoring .csv files
+*.csv
